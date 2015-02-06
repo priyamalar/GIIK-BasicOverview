@@ -1,6 +1,6 @@
 Gen. II Kinect 4 Windows – Basics
 ===========
-Tutorial on the basics of **Kinect for Windows Gen. II**.
+Tutorial on the basics of **Kinect for Windows Gen. II** based on _v2.0.1410.19_.
 
 You can read my full post [here]( http://www.kinectingforwindows.com/2014/03/03/gen-ii-kinect-basics-overview/).
 
