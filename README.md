@@ -1,15 +1,13 @@
 Gen. II Kinect 4 Windows – Basics
 ===========
-Tutorial on the basics of **Kinect for Windows Gen. II** based on _v2.0.1410.19_.
+Tutorial on the basics of **Kinect for Windows Gen. II**.
 
 You can read my full post [here]( http://www.kinectingforwindows.com/2014/03/03/gen-ii-kinect-basics-overview/).
 
 ![K4W logo](http://www.kinectingforwindows.com/wp-content/themes/twentyten/images/headers/logo.jpg)
 
 ## Disclaimer
-This tutorial is based on the **November (2013)** version of the **alpha SDK** for Kinect for Windows Gen II and not the final sdk.
-
-*“This is preliminary software and/or hardware and APIs are preliminary and subject to change”.*
+This tutorial is based on the Kinect for Windows Gen II SDK _v2.0.1410.19_ NuGet Package.
 
 ## Prerequisites
 In order to follow the tutorial you will need the following aspects -
