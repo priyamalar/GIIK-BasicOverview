@@ -34,4 +34,4 @@ Since this tutorial is focussing on Kinect for Windows I've created a template t
 
 ![Tutorial](http://www.kinectingforwindows.com/images/github/kinect_4_windows_basics_template.png)
 
-You can download my template [here](https://github.com/KinectingForWindows/G2KBasicOverview/tree/Template).
+You can download my template [here](https://github.com/KinectingForWindows/GIIK-BasicOverview/tree/Template).
